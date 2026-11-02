@@ -1,0 +1,14 @@
+newmtl PictureFrame_Frame
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl PictureFrame_Canvas
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
