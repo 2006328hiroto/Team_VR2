@@ -1,0 +1,14 @@
+newmtl Pumpkin_Garland_1m_Wire
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Pumpkin_Garland_1m_Pumpkin
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
