@@ -1,0 +1,16 @@
+newmtl Granite_Floor
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd granite_floor.png
+
+newmtl Granite_Wall
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd granite_wall.png
+

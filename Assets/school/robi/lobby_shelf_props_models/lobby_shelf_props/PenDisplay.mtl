@@ -1,0 +1,21 @@
+newmtl PenDisplay_Body
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl PenDisplay_Screen
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl PenDisplay_Leg
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+

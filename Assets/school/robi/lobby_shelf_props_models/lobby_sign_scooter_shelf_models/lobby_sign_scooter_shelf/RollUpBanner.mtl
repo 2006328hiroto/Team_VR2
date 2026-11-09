@@ -1,0 +1,42 @@
+newmtl RollUpBanner_Base
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl RollUpBanner_Panel
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl RollUpBanner_Tile_Orange
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl RollUpBanner_Tile_White
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl RollUpBanner_Top
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl RollUpBanner_Pole
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+

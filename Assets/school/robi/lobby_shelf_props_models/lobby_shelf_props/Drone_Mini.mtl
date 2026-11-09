@@ -1,0 +1,42 @@
+newmtl Drone_Mini_Body
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Drone_Mini_Arm
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Drone_Mini_Motor
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Drone_Mini_Rotor
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Drone_Mini_Leg
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Drone_Mini_Camera
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
